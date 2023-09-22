@@ -1,5 +1,5 @@
 ---
-title: Welcome to Gael Yimson blog
+title: Welcome to Gael Yimen Yimga's blog
 ---
 
-This repository contains files for Gael Yimen Yimga blog.
+In this blog I share random thoughts about Life experience, Software engineering experience, Personal development and Entrepreneurship experience and anything else that I find interesting and fascinating. Please take a seat and enjoy while reading!
